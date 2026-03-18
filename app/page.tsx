@@ -33,14 +33,16 @@ export default function HomePage() {
           <span className="eyebrow">适用场景</span>
           <h2>当你不想一个人扛的时候</h2>
           <p>
-            这个页面适合用来展示心理支持型产品、AI 对话产品、个人成长平台，
-            或任何强调“陪伴 + 引导 + 随时可访问”的服务。
+            我们在这里
+          </p>
+          <p>
+            陪伴 引导 24/7随时可访问
           </p>
         </div>
         <div className="split-card">
-          <h3>你可以继续扩展</h3>
+          <h3>后续功能</h3>
           <ul>
-            <li>接入 OpenAI API 做真实聊天</li>
+            <li>训练大模型</li>
             <li>增加登录、注册、保存记录</li>
             <li>加入套餐页、定价页、博客页</li>
           </ul>
