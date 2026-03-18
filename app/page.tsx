@@ -9,7 +9,7 @@ export default function HomePage() {
         <div className="hero-overlay" />
         <div className="hero-content">
           <span className="eyebrow hero-badge">24/7 AI 支持</span>
-          <h1>口袋里的私人 AI 心理支持</h1>
+          <h1>口袋里的 AI 心理支持</h1>
           <p>
             随时随地获得陪伴、梳理和引导。在压力、焦虑、关系与成长议题中，
             让你更平静地理解自己。
